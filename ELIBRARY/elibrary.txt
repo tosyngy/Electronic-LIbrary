@@ -1,0 +1,10 @@
+modify by username
+
+rgb(247, 198, 170)
+
+#797979
+
+width: 300px;
+
+
+#eee
